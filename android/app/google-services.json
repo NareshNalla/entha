@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "726002188257",
+    "project_id": "shopcontrol-70a5f",
+    "storage_bucket": "shopcontrol-70a5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726002188257:android:4238984b5c3a4615efdca0",
+        "android_client_info": {
+          "package_name": "com.naresh.entha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726002188257-1j43ffl3kp8n7ek32c1uin1r58lr6esu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naresh.entha",
+            "certificate_hash": "a5c1b55cf3ec5fa99764c783b0cd76378cf7bca1"
+          }
+        },
+        {
+          "client_id": "726002188257-954ul437kukmo0r8u1l6f4t0t45ogngp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5qa4SDUAKjibR352eZiBO0-V9wFPr6v4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726002188257-954ul437kukmo0r8u1l6f4t0t45ogngp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
